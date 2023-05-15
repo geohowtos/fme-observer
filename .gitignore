@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Cache
+__pycache__/
+
+# Development environment
+.idea/
+.vscode/
+
+# Building
+build/
+dist/
+*.spec
+
+# Settings
+settings.json
